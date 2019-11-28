@@ -1,7 +1,7 @@
 ## Steps 1,2,3
 
-* npm i
-* cd `test/app`
+* `npm i`, not sure if this step is necessary
+* `cd test/app && npm i`
 * node index.js --coverage
 * browse the page in http://localhost:8888/ or anywherer you hosted the app
 * go to localhost:8888/coverage to see the coverage report
