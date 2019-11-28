@@ -1,3 +1,15 @@
+## Steps 1,2,3
+
+* npm i
+* cd `test/app`
+* node index.js --coverage
+* browse the page in http://localhost:8888/ or anywherer you hosted the app
+* go to localhost:8888/coverage to see the coverage report
+
+===================
+
+#### Below are all public content from original istanbul-middleware project.
+
 istanbul-middleware
 ===================
 
